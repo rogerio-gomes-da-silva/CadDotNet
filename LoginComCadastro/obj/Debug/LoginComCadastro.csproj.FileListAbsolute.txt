@@ -1,0 +1,13 @@
+C:\Users\rogerio\source\repos\LoginComCadastro\LoginComCadastro\bin\Debug\LoginComCadastro.exe.config
+C:\Users\rogerio\source\repos\LoginComCadastro\LoginComCadastro\bin\Debug\LoginComCadastro.exe
+C:\Users\rogerio\source\repos\LoginComCadastro\LoginComCadastro\bin\Debug\LoginComCadastro.pdb
+C:\Users\rogerio\source\repos\LoginComCadastro\LoginComCadastro\obj\Debug\LoginComCadastro.csproj.AssemblyReference.cache
+C:\Users\rogerio\source\repos\LoginComCadastro\LoginComCadastro\obj\Debug\LoginComCadastro.csproj.SuggestedBindingRedirects.cache
+C:\Users\rogerio\source\repos\LoginComCadastro\LoginComCadastro\obj\Debug\LoginComCadastro.Form1.resources
+C:\Users\rogerio\source\repos\LoginComCadastro\LoginComCadastro\obj\Debug\LoginComCadastro.FormCadastrar.resources
+C:\Users\rogerio\source\repos\LoginComCadastro\LoginComCadastro\obj\Debug\LoginComCadastro.FormSistema.resources
+C:\Users\rogerio\source\repos\LoginComCadastro\LoginComCadastro\obj\Debug\LoginComCadastro.Properties.Resources.resources
+C:\Users\rogerio\source\repos\LoginComCadastro\LoginComCadastro\obj\Debug\LoginComCadastro.csproj.GenerateResource.cache
+C:\Users\rogerio\source\repos\LoginComCadastro\LoginComCadastro\obj\Debug\LoginComCadastro.csproj.CoreCompileInputs.cache
+C:\Users\rogerio\source\repos\LoginComCadastro\LoginComCadastro\obj\Debug\LoginComCadastro.exe
+C:\Users\rogerio\source\repos\LoginComCadastro\LoginComCadastro\obj\Debug\LoginComCadastro.pdb
